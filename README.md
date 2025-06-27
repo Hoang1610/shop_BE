@@ -13,4 +13,3 @@ Các bước cần làm:
 
 =============
 
-Lưu ý: với MacOS/Linux, nếu không thấy file .env => google cách hiện , or mở = vscode :v
